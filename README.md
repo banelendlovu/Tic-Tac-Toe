@@ -5,11 +5,9 @@ The project is built with HTML, CSS, Javascript. This tic-tac-toe game applies a
 
 # Demo
 
-You can try it at https://banelendlovu.github.io/banele/
+You can try it at file:///C:/Users/banele.ndlovu/Documents/GitHub/JavaScript-Tic-Tac-Toe-Project/JavaScript-Tic-Tac-Toe-Project/index.html
 
 ![Image](https://imgur.com/mxW3LUo.png)
-
-_**Read more:**_ Rails application: Tic Tac Toe with multiple modes : 
 
 <p align="center">
      <img src="https://img.shields.io/packagist/l/doctrine/orm.svg" data-origin="https://img.shields.io/packagist/l/doctrine/orm.svg" alt="license">
