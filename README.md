@@ -5,7 +5,7 @@ The project is built with HTML, CSS, Javascript. This tic-tac-toe game applies a
 
 # Demo
 
-You can try it at file:///C:/Users/banele.ndlovu/Documents/GitHub/JavaScript-Tic-Tac-Toe-Project/JavaScript-Tic-Tac-Toe-Project/index.html
+You can try it at C:/Users/banele.ndlovu/Documents/GitHub/JavaScript-Tic-Tac-Toe-Project/JavaScript-Tic-Tac-Toe-Project/index.html
 
 ![Image](https://imgur.com/mxW3LUo.png)
 
