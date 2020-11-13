@@ -5,7 +5,7 @@ The project is built with HTML, CSS, Javascript. This tic-tac-toe game applies a
 
 # Demo
 
-You can try it at https://banelendlovu.github.io/banele.github.io/
+You can try it at https://banelendlovu.github.io/
 
 ![Image](https://imgur.com/mxW3LUo.png)
 
